@@ -1,0 +1,15 @@
+{
+  "name": "marketing-crew",
+  "description": "Open-source multi-agent marketing tools for Claude Code.",
+  "owner": {
+    "name": "Anshu Tyagi",
+    "url": "https://github.com/anshutyagi0420"
+  },
+  "plugins": [
+    {
+      "name": "site-audit",
+      "source": "./plugins/site-audit",
+      "description": "Audit any web page with a team of AI specialists (messaging, conversion, SEO, performance and accessibility, competitors) and get a prioritized fix list with ready-to-paste copy."
+    }
+  ]
+}

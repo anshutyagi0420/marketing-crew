@@ -1,0 +1,6 @@
+site-audit-reports/
+tmp-eval/
+site-audit.context.md
+.site-audit/
+node_modules/
+.DS_Store

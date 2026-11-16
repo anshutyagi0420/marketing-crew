@@ -1,0 +1,14 @@
+{
+  "name": "site-audit",
+  "displayName": "Site Audit",
+  "version": "0.1.0",
+  "description": "A team of AI agents that audits any web page for messaging, conversion, SEO, performance and accessibility, optionally compares it with competitors, and returns a prioritized fix list with ready-to-paste copy.",
+  "author": {
+    "name": "Anshu Tyagi",
+    "url": "https://github.com/anshutyagi0420"
+  },
+  "homepage": "https://github.com/anshutyagi0420/marketing-crew",
+  "repository": "https://github.com/anshutyagi0420/marketing-crew",
+  "license": "MIT",
+  "keywords": ["marketing", "seo", "cro", "landing-page", "website-audit", "copywriting", "accessibility", "pagespeed", "multi-agent"]
+}
